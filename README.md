@@ -13,6 +13,8 @@ A modern and responsive portfolio website built using **Next.js** for Gary, a fr
 
 ## 🎯 Why This Project?
 
+This portfolio was specifically designed for **Gaurav**, a DevOps Engineer, to highlight his skills, experience, and projects in the field of DevOps. The theme and layout cater to showcasing automation workflows, cloud infrastructure projects, and CI/CD pipelines. It provides an engaging and professional platform to attract potential clients and employers.
+
 This portfolio was created to provide **Gary** with a professional and visually appealing platform to showcase his work. The goal was to build a fast, modern, and user-friendly website that enhances his online presence and helps him attract new clients.
 
 ## 📌 To-Do (Future Enhancements)
